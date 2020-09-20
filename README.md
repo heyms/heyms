@@ -6,4 +6,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-mandan)] -->
 
-[website]: https://http//www.mukeshmandan.tech
+[website]: https://mukeshmandan.com/
