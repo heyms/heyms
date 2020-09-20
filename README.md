@@ -63,7 +63,7 @@
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-mandan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 
-[twitter]: https://twitter.com/svbutko
-[linkedin]: https://linkedin.com/in/svbutko
+[twitter]: https://twitter.com/muku081291
+[linkedin]: https://www.linkedin.com/in/mukésh/
 [medium]: https://medium.com/@svbutko
-[devdotto]: https://dev.to/svbutko
+[devdotto]: https://codepen.io/mukesh-mandan
