@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-mukesh-mandan&style=flat-square)
 
 ### Hi there, I'm Mukesh 👋
-## I'm a React Native, React Developer,Android Developer, Blogger and a kind person !
+## I'm a React Native, Android Developer, Data Scientist, Blogger and a kind person !
 
 - 🔭 I’m currently working on developing and contributing in react-native and Android repos!
 - 🌱 I’m currently learning lots of stuff in different fields
