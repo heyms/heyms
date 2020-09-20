@@ -1,7 +1,7 @@
 ### Hi there, I'm Mukesh 👋
-## I'm a React Native, React Developer, Blogger and a kind person !
+## I'm a React Native, React Developer,Android Developer, Blogger and a kind person !
 
-- 🔭 I’m currently working on developing and contributing in react-native repos!
+- 🔭 I’m currently working on developing and contributing in react-native and Android repos!
 - 🌱 I’m currently learning lots of stuff in different fields
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -56,7 +56,7 @@
 
 <br />
 
-[![Svbutko's github stats](https://github-readme-stats.vercel.app/api?username=svbutko&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Svbutko's github stats](https://github-readme-stats.vercel.app/api?username=mukesh-mandan&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbutko&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
