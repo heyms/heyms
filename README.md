@@ -58,9 +58,9 @@
 
 <br />
 
-[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukesh-mandan&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=heyms&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-mandan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 
 [twitter]: https://twitter.com/muku081291
