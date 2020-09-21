@@ -13,7 +13,7 @@
 [<img align="left" alt="svbutko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="svbutko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="svbutko | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="svbutko | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devdotto]
+[<img align="left" alt="svbutko | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/codepen.svg" />][codepen]
 
 <br />
 
@@ -63,7 +63,7 @@
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 
-[twitter]: https://twitter.com/muku081291
+[twitter]: https://twitter.com/hy_mukesh
 [linkedin]: https://www.linkedin.com/in/mukésh/
-[medium]: https://medium.com/@svbutko
-[devdotto]: https://codepen.io/mukesh-mandan
+[medium]: https://medium.com/@mukeshmandan
+[codepen]: https://codepen.io/mukeshmandan
